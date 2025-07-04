@@ -1,0 +1,6 @@
+{
+  "name": "レジ締めチェッカー (Register Balance Checker)",
+  "description": "レジの現金と売上データを照合し、差額を素早く確認できるアプリです。日々のレジ締め作業を簡単かつ正確に行えます。(An app that allows you to quickly check the difference by collating the cash in the register with sales data. Makes daily register closing tasks easy and accurate.)",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
