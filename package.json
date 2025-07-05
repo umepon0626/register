@@ -1,5 +1,5 @@
 {
-  "name": "現金売上確認アプリ-(cash-sales-checker)",
+  "name": "cash-reconciliation-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react": "^19.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

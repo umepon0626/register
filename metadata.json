@@ -1,6 +1,6 @@
 {
-  "name": "現金売上確認アプリ (Cash Sales Checker)",
-  "description": "紙幣と硬貨の枚数を入力して合計金額を計算し、記録上の売上との差額を確認するアプリケーションです。レジ締め作業を効率化します。",
+  "name": "Cash Reconciliation App",
+  "description": "An application to reconcile cash in a register with sales data, accounting for an opening balance, expenses, and deposits. It provides a clear, visual breakdown of the calculations to easily identify any discrepancies.",
   "requestFramePermissions": [],
   "prompt": ""
 }
